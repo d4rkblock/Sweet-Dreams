@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: b707e77d844d74d4880f85800c33fb8b
+timeCreated: 1478441211
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed 4
+    100002: Boss_Floor
+    100004: Camera
+    100006: Cube.002
+    100008: Cube.003
+    100010: Cube.005
+    100012: //RootNode
+    100014: Dining
+    100016: Garage
+    100018: Lamp
+    100020: Retreat_Floor
+    100022: Room
+    100024: Store
+    100026: Study
+    400000: Bed 4
+    400002: Boss_Floor
+    400004: Camera
+    400006: Cube.002
+    400008: Cube.003
+    400010: Cube.005
+    400012: //RootNode
+    400014: Dining
+    400016: Garage
+    400018: Lamp
+    400020: Retreat_Floor
+    400022: Room
+    400024: Store
+    400026: Study
+    2300000: Bed 4
+    2300002: Boss_Floor
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.005
+    2300010: Dining
+    2300012: Garage
+    2300014: Retreat_Floor
+    2300016: Room
+    2300018: Store
+    2300020: Study
+    3300000: Bed 4
+    3300002: Boss_Floor
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.005
+    3300010: Dining
+    3300012: Garage
+    3300014: Retreat_Floor
+    3300016: Room
+    3300018: Store
+    3300020: Study
+    4300000: Retreat_Floor
+    4300002: Boss_Floor
+    4300004: Study
+    4300006: Garage
+    4300008: Cube.003
+    4300010: Bed 4
+    4300012: Store
+    4300014: Dining
+    4300016: Cube.005
+    4300018: Cube.002
+    4300020: Room
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

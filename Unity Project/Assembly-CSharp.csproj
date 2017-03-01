@@ -47,8 +47,13 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Bases\BaseItem.cs" />
      <Compile Include="Assets\Scripts\Bases\BaseWeapon.cs" />
+     <Compile Include="Assets\Scripts\Controllers\MessageController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\WeaponCollectedController.cs" />
      <Compile Include="Assets\Scripts\Enums\EnumItemTypes.cs" />
+     <Compile Include="Assets\Scripts\Enums\EnumWeapons.cs" />
      <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+     <Compile Include="Assets\Scripts\PlayerLightBehaviour.cs" />
+     <Compile Include="Assets\Scripts\SimpleAxeBehaviour.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
